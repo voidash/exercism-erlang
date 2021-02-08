@@ -1,0 +1,9 @@
+_build/
+rebar.config
+test/
+.exercism/
+
+*.beam
+*.app.src
+
+
